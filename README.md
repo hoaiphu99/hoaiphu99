@@ -31,6 +31,10 @@ Welcome to my GitHub profile! I'm a passionate developer, constantly exploring n
 **Tools:**
 - Git | GitHub | VSCode | Postman | IntelliJ
 
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoaiphu99&layout=compact&theme=github_dark)
+
 ## 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/lamhoaiphu)
